@@ -17,7 +17,7 @@ int main()
 		cout << c << "\t";
 		for (int i = 0; i < 11; i++)
 		{
-			cout << i * c << '\t';
+			cout << i * c << "\t";
 		}
 		cout << endl;
 	}
